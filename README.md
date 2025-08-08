@@ -1,4 +1,3 @@
-#﻿# Java-library-system
 
 # Library Management System
 
@@ -72,3 +71,4 @@ A simple Java Spring Boot application for managing books with user authenticatio
   * `DELETE /api/books/{id}` - delete book by id
 
 ---
+
